@@ -1,9 +1,8 @@
 - 🔭 I am currently working as a civil servant
 - 🌱 I'm learning HTML e CSS
 - 👯 I'm structuring my career transition
-- 📫 How to reach me:
-sisdellidafne@gmail.com
-- 😄 Pronouns: she / her
+- 📫 How to reach me: sisdellidafne@gmail.com
+
  <br/>
  <br/>
 
